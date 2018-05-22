@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 3: May 22, Tuesday.
+
+**Today's Progress**: Baseline for the Titanic competition on kaggle.
+
+**Thoughts** Today I made a baseline solution for the Titanic competition on kaggle. I've already solved this problem before, but today I've decided to improve the code. And I managed to get into the top 5%.
+
+**Link(s) to work**
+[Code on Github](https://github.com/makarevichy/Week_1_100DaysOfCode/tree/master/Day_3)
+
 ### Day 2: May 21, Monday.
 
 **Today's Progress**: Function to translate text from Russian to English, work with the function walk(), Markov chain.
