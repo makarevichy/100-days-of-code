@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 4: May 23, Wednesday.
+
+**Today's Progress**: Worked with the data, drawing a map, doing the animation using magick package.
+
+**Thoughts** Today I did a lot of work with the data on the average length of sick leaves in all regions of Russia from 2014 to 2017, put the data on the map and did the animation using the magick package.
+
+**Link(s) to work**
+[Code on Github](https://github.com/makarevichy/Week_1_100DaysOfCode/tree/master/Day_4)
+
 ### Day 3: May 22, Tuesday.
 
 **Today's Progress**: Baseline for the Titanic competition on kaggle.
