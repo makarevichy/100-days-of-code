@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 5: May 24, Thursday.
+
+**Today's Progress**: Worked in ggmap package.
+
+**Thoughts** Today I worked with ggmap package. He put on the map a [list](https://support.spatialkey.com/spatialkey-sample-csv-data/) of 985 real estate transactions in the Sacramento area, registered for five days.
+
+**Link(s) to work**
+[Code on Github](https://github.com/makarevichy/Week_1_100DaysOfCode/tree/master/Day_5)
+
 ### Day 4: May 23, Wednesday.
 
 **Today's Progress**: Worked with the data, drawing a map, doing the animation using magick package.
