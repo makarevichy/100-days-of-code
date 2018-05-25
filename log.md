@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 6: May 25, Friday.
+
+**Today's Progress**: Today I played with functions.
+
+**Thoughts** Today I played with functions. I'm also studying [Advanced R](http://adv-r.had.co.nz/) by [Hadley Wickham](https://twitter.com/hadleywickham).
+
+**Link(s) to work**
+[Code on Github](https://github.com/makarevichy/Week_1_100DaysOfCode/tree/master/Day_6)
+
 ### Day 5: May 24, Thursday.
 
 **Today's Progress**: Worked in ggmap package.
