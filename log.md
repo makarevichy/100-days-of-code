@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 7: May 26, Saturday.
+
+**Today's Progress**: Again play with the functions.
+
+**Thoughts** Wow!!! Seven days of [#100DaysOfCode](https://twitter.com/hashtag/100daysofcode?src=hash). It's invigorating!) Today I decided to write an analogue of the waffle function from the same package, only with the help of basic graphics. Managed only part of the function, I will continue tomorrow!
+
+**Link(s) to work**
+[Code on Github](https://github.com/makarevichy/Week_1_100DaysOfCode/tree/master/Day_7)
+
 ### Day 6: May 25, Friday.
 
 **Today's Progress**: Today I played with functions.
