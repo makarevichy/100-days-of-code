@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 9: May 28, Monday.
+
+**Today's Progress**: Worked with a shiny app.
+
+**Thoughts** Found the unique code of the speeches written in the 60's, which you can use to speak publicly about 40-50 minutes. It is necessary to connect the phrases of each of the four variables in turn. I moved this code to shiny app where you can select the number of minutes of speech with the slider and the text will be generated automatically. It was fun.)
+[ShinyApp on russian languages](https://makarevich.shinyapps.io/rech/).
+
+**Link(s) to work**
+[Code on Github](https://github.com/makarevichy/Week_2_100DaysOfCode/blob/master/weekday/Day_9_shiny_speech.R)
+
 ### Day 8: May 27, Sunday.
 
 **Today's Progress**: Wrote analog waffle function.
