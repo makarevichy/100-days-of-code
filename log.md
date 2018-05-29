@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 10: May 29, Tuesday.
+
+**Today's Progress**: Wrote a function that looks for missing values.
+
+**Thoughts** Today I wrote a function that looks for different missing values in a data frame and returns a table with a view of the missing data in each column.
+
+**Link(s) to work**
+[Code on Github](https://github.com/makarevichy/Week_2_100DaysOfCode/blob/master/weekday/Day_10_find_na.R)
+
 ### Day 9: May 28, Monday.
 
 **Today's Progress**: Worked with a shiny app.
