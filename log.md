@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 11: May 30, Wednesday.
+
+**Today's Progress**: Remember the principles of the timeseries, looked at the forecast package.
+
+**Thoughts** Today, a little played with time series, also looked into the forecast package.
+
+**Link(s) to work**
+[Code on Github](https://github.com/makarevichy/Week_2_100DaysOfCode/blob/master/weekday/Day_11_ts.R)
+
 ### Day 10: May 29, Tuesday.
 
 **Today's Progress**: Wrote a function that looks for missing values.
