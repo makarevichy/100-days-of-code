@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 12: May 31, Thursday.
+
+**Today's Progress**: Worked with arrays, built a grid of pictures in ggplot2.
+
+**Thoughts** Today I rebuilt data arrays, rotated matrices, built a grid of pictures. But what kind of pictures rotation can improve the result of great when building a ConvNN.
+
+**Link(s) to work**
+[Code on Github](https://github.com/makarevichy/Week_2_100DaysOfCode/blob/master/weekday/Day_12_array_and_plot.R)
+
 ### Day 11: May 30, Wednesday.
 
 **Today's Progress**: Remember the principles of the timeseries, looked at the forecast package.
