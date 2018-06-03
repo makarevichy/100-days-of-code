@@ -1,5 +1,27 @@
 # 100 Days Of Code - Log
 
+### Day 15: June 3, Sunday.
+
+**Today's Progress**: Non-standard evaluation, Expressions.
+
+**Thoughts** 
+- Finished the in-depth study non-standard evaluation.
+- Moved on to the study of expressions.
+
+**Link(s) to work**
+[Code on Github](https://github.com/makarevichy/Week_3_100DaysOfCode/blob/master/weekday/Day_15_NSE.R)
+
+### Day 13-14: June 1-2, Friday-Saturday.
+
+**Today's Progress**: Blog on Jekyll, reading advanced R by Hadley.
+
+**Thoughts** 
+- To make fork blog on Jekyll, read the documentation.
+- Reading and working on the book Advanced R by Hadley.
+
+**Link(s) to work**
+[Code on Github](https://github.com/makarevichy/Week_2_100DaysOfCode/blob/master/weekday/Day_13_14_blog_and_advanced_R.R)
+
 ### Day 12: May 31, Thursday.
 
 **Today's Progress**: Worked with arrays, built a grid of pictures in ggplot2.
