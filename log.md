@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 22: June 10, Sunday.
+
+**Today's Progress**: Download, unzip, strings, map, pipe.
+
+**Thoughts** 
+- Today I worked with the download function, the unzip function. 
+- I was able to work with the text with the help of stringi package, where I did a difficult work with regex.
+
 ### Day 21: June 9, Saturday.
 
 **Today's Progress**: Domain specific language, html.
