@@ -6,7 +6,7 @@
 
 **Thoughts** 
 - Today I worked with the download function, the unzip function. 
-- I was able to work with the text with the help of stringi package, where I did a difficult work with regex.
+- I was able to work with the text with the help of stringr package, where I did a difficult work with regex.
 
 ### Day 21: June 9, Saturday.
 
