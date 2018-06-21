@@ -1,5 +1,23 @@
 # 100 Days Of Code - Log
 
+### Days 33: June 21, Thursday.
+
+**Today's Progress**: 'R packages'.
+
+**Thoughts** 
+- Began to delve into the structure of R packages
+- Dealt with package components: Code (R/), Package metadata (DESCRIPTION), Object documentation (man/)
+
+### Days 32: June 20, Wednesday.
+
+**Today's Progress**: Keras, CNN.
+
+**Thoughts** 
+- I studied how CNN is trained on a small dataset
+
+**Link(s) to work**
+[Code on Github](https://github.com/makarevichy/Week_5_100DaysOfCode/blob/master/weekday/Day_32.R)
+
 ### Days 31: June 19, Tuesday.
 
 **Today's Progress**: Rcpp.
