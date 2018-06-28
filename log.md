@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Days 40: June 28, Thursday.
+
+**Today's Progress**: Build R packages.
+
+**Thoughts** 
+- Resumed to delve into the structure of R packages.
+- Dealt with package components: Data (data/), Compiled code (src/), Installed files (inst/).
+
 ### Days 39: June 27, Wednesday.
 
 **Today's Progress**: Build R packages.
