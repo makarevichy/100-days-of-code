@@ -1,6 +1,13 @@
 # 100 Days Of Code - Log
 
-### Days 40: June 28, Thursday.
+### Days 41-42: June 29-30, Friday - Saturday.
+
+**Today's Progress**: Git and GitHub.
+
+**Thoughts** 
+- These two days I devoted to a more in-depth study of Git + GitHub.
+
+### Day 40: June 28, Thursday.
 
 **Today's Progress**: Build R packages.
 
@@ -8,7 +15,7 @@
 - Resumed to delve into the structure of R packages.
 - Dealt with package components: Data (data/), Compiled code (src/), Installed files (inst/).
 
-### Days 39: June 27, Wednesday.
+### Day 39: June 27, Wednesday.
 
 **Today's Progress**: Build R packages.
 
@@ -16,7 +23,7 @@
 - Resumed to delve into the structure of R packages.
 - Dealt with package components: Vignettes (vignettes/), Testing (tests/), Namespaces (NAMESPACE)
 
-### Days 38: June 26, Tuesday.
+### Day 38: June 26, Tuesday.
 
 **Today's Progress**: Time-series, forecast package.
 
@@ -26,14 +33,14 @@
 **Link(s) to work**
 [Code on Github](https://github.com/makarevichy/Week_6_100DaysOfCode/blob/master/weekday/Day_38.R)
 
-### Days 37: June 25, Monday.
+### Day 37: June 25, Monday.
 
 **Today's Progress**: ConvNN.
 
 **Thoughts** 
 - More details plunged into the architecture of ConvNN.
 
-### Days 36: June 24, Sunday.
+### Day 36: June 24, Sunday.
 
 **Today's Progress**: VGG16, imagenet.
 
@@ -43,7 +50,7 @@
 **Link(s) to work**
 [Code on Github](https://github.com/makarevichy/Week_6_100DaysOfCode/blob/master/weekday/Day_36.R)
 
-### Days 35: June 23, Saturday.
+### Day 35: June 23, Saturday.
 
 **Today's Progress**: Melt and cast.
 
@@ -53,7 +60,7 @@
 **Link(s) to work**
 [Code on Github](https://github.com/makarevichy/Week_5_100DaysOfCode/blob/master/weekday/Day_35.R)
 
-### Days 34: June 22, Friday.
+### Day 34: June 22, Friday.
 
 **Today's Progress**: Imager, blob detection.
 
@@ -63,7 +70,7 @@
 **Link(s) to work**
 [Code on Github](https://github.com/makarevichy/Week_5_100DaysOfCode/blob/master/weekday/Day_34.R)
 
-### Days 33: June 21, Thursday.
+### Day 33: June 21, Thursday.
 
 **Today's Progress**: 'R packages'.
 
@@ -71,7 +78,7 @@
 - Began to delve into the structure of R packages
 - Dealt with package components: Code (R/), Package metadata (DESCRIPTION), Object documentation (man/)
 
-### Days 32: June 20, Wednesday.
+### Day 32: June 20, Wednesday.
 
 **Today's Progress**: Keras, CNN.
 
@@ -81,7 +88,7 @@
 **Link(s) to work**
 [Code on Github](https://github.com/makarevichy/Week_5_100DaysOfCode/blob/master/weekday/Day_32.R)
 
-### Days 31: June 19, Tuesday.
+### Day 31: June 19, Tuesday.
 
 **Today's Progress**: Rcpp.
 
@@ -91,7 +98,7 @@
 **Link(s) to work**
 [Code on Github](https://github.com/makarevichy/Week_5_100DaysOfCode/blob/master/weekday/Day_31.R)
 
-### Days 30: June 18, Monday.
+### Day 30: June 18, Monday.
 
 **Today's Progress**: Memory.
 
@@ -102,7 +109,7 @@
 **Link(s) to work**
 [Code on Github](https://github.com/makarevichy/Week_5_100DaysOfCode/blob/master/weekday/Day_30.R)
 
-### Days 29: June 17, Sunday.
+### Day 29: June 17, Sunday.
 
 **Today's Progress**: Profiling, optimising code.
 
@@ -113,7 +120,7 @@
 **Link(s) to work**
 [Code on Github](https://github.com/makarevichy/Week_5_100DaysOfCode/blob/master/weekday/Day_29.R)
 
-### Days 28: June 16, Saturday.
+### Day 28: June 16, Saturday.
 
 **Today's Progress**: Profiling, Provfis package.
 
