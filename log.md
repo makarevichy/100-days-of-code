@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Days 43-44: July 1-2, Sunday - Monday.
+
+**Today's Progress**: Automated checking and release packages, Google Cloud.
+
+**Thoughts** 
+- I studied automatic check which allows to search in the code of R of a problem.
+- Also studied the preparation of package R for release.
+- Created and configured a new instance on google server.
+
 ### Days 41-42: June 29-30, Friday - Saturday.
 
 **Today's Progress**: Git and GitHub.
