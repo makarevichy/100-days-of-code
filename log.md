@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 45: July 3, Tuesday.
+
+**Today's Progress**: Functions.
+
+**Thoughts** 
+- Today I worked with writing various useful functions.
+
+**Link(s) to work**
+[Code on Github](https://github.com/makarevichy/100-days-of-code/blob/master/code/Day_45_functions.R)
+
 ### Days 43-44: July 1-2, Sunday - Monday.
 
 **Today's Progress**: Automated checking and release packages, Google Cloud.
