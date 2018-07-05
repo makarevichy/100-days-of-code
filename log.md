@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Days 46-47: July 4-5, Wednesday - Thursday.
+
+**Today's Progress**: Tidytext, sentiments.
+
+**Thoughts** 
+- I decided to try to start my blog. I have prepared the starting R code for the first article, which will deal with the analysis of the text.
+
+**Link(s) to work**
+[Code on Github](https://github.com/makarevichy/100-days-of-code/blob/master/code/Day_46_47_functions.R)
+
 ### Day 45: July 3, Tuesday.
 
 **Today's Progress**: Functions.
