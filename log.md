@@ -1,5 +1,32 @@
 # 100 Days Of Code - Log
 
+### Day 50: July 8, Sunday.
+
+**Today's Progress**: K-Means Clustering.
+
+**Thoughts** 
+- I repeated the K-Means Clustering in R and completed the exercises which are found on [r-bloggers.com](https://www.r-bloggers.com/k-means-clustering-in-r-exercises/).
+
+**Link(s) to work**
+[Code on Github](https://github.com/makarevichy/Week_8_100DaysOfCode/blob/master/weekday/Day_50.R)
+
+### Day 49: July 7, Saturday.
+
+**Today's Progress**: Text output.
+
+**Thoughts** 
+- I repeated the programatically creating text output in R and completed the exercises which are found on [r-bloggers.com](https://www.r-bloggers.com/programmatically-creating-text-output-in-r-exercises/).
+
+**Link(s) to work**
+[Code on Github](https://github.com/makarevichy/100-days-of-code/blob/master/code/Day_49.R)
+
+### Day 48: July 6, Friday.
+
+**Today's Progress**: Functions.
+
+**Thoughts** 
+- I continued to write various useful functions.
+
 ### Days 46-47: July 4-5, Wednesday - Thursday.
 
 **Today's Progress**: Tidytext, sentiments.
