@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 52: July 10, Tuesday.
+
+**Today's Progress**: Regex, stringi.
+
+**Thoughts** 
+- More thoroughly studied the manipulation of strings.
+
+**Link(s) to work**
+[Code on Github](https://github.com/makarevichy/Week_8_100DaysOfCode/blob/master/weekday/Day_52.R)
+
 ### Day 51: July 9, Monday.
 
 **Today's Progress**: Parsing Dates and Time. Anytime, lubridate packages.
