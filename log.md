@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 53: July 11, Wednesday.
+
+**Today's Progress**: Regex, strings, rebus package.
+
+**Thoughts** 
+- A strong immersion in the work with regular expressions.
+
+**Link(s) to work**
+[Code on Github](https://github.com/makarevichy/Week_8_100DaysOfCode/blob/master/weekday/Day_53.R)
+
 ### Day 52: July 10, Tuesday.
 
 **Today's Progress**: Regex, stringi.
