@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 54: July 12, Thursday.
+
+**Today's Progress**: Highcharter and leaflet packages.
+
+**Thoughts** 
+- I refreshed their knowledge with highcharter and leaflet packages. Also I trained on simple examples.
+
+**Link(s) to work**
+[Code on Github](https://github.com/makarevichy/Week_8_100DaysOfCode/blob/master/weekday/Day_54.R)
+
 ### Day 53: July 11, Wednesday.
 
 **Today's Progress**: Regex, strings, rebus package.
