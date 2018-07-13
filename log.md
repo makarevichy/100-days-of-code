@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 55: July 13, Friday.
+
+**Today's Progress**: Regex.
+
+**Thoughts** 
+- Wrote regex expressions to extract dates and sums from text strings.
+
+**Link(s) to work**
+[Code on Github](https://github.com/makarevichy/Week_8_100DaysOfCode/blob/master/weekday/Day_55.R)
+
 ### Day 54: July 12, Thursday.
 
 **Today's Progress**: Highcharter and leaflet packages.
