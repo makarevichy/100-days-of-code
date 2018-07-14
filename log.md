@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 56: July 14, Saturday.
+
+**Today's Progress**: Purrr package.
+
+**Thoughts** 
+- Today he consolidated his knowledge of functional programming in R. Worked with a great package purrr.
+
+**Link(s) to work**
+[Code on Github](https://github.com/makarevichy/Week_8_100DaysOfCode/blob/master/weekday/Day_56.R)
+
 ### Day 55: July 13, Friday.
 
 **Today's Progress**: Regex.
