@@ -1,5 +1,22 @@
 # 100 Days Of Code - Log
 
+### Day 63: July 21, Saturday.
+
+**Today's Progress**: Forcats package.
+
+**Thoughts** 
+- I worked with the factors in more detail in R.
+
+**Link(s) to work**
+[Code on Github](https://github.com/makarevichy/Week_9_100DaysOfCode/blob/master/weekday/Day63.R)
+
+### Day 62: July 20, Friday.
+
+**Today's Progress**: Advanced R.
+
+**Thoughts** 
+- I delved into the functionality of R again.
+
 ### Day 61: July 19, Thursday.
 
 **Today's Progress**: Python cert.
