@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 68-69: July 26-27, Thursday-Friday.
+
+**Today's Progress**: ANOVA/MANOVA.
+
+**Thoughts** 
+- These two days, has studied in depth the analysis of variance ANOVA/MANOVA.
+
+**Link(s) to work**
+[Code on Github](https://github.com/makarevichy/Week_10_100DaysOfCode/blob/master/weekday/Days_68_69.R)
+
 ### Day 66-67: July 24-25, Tuesday-Wednesday.
 
 **Today's Progress**: Recommendation systems.
