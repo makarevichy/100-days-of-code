@@ -1,5 +1,25 @@
 # 100 Days Of Code - Log
 
+### Day 71: July 29, Sunday.
+
+**Today's Progress**: PCA and FA.
+
+**Thoughts** 
+- Studied principal component analysis and factor analysis.
+
+**Link(s) to work**
+[Code on Github](https://github.com/makarevichy/Week_11_100DaysOfCode/blob/master/weekday/Day_71.R)
+
+### Day 70: July 28, Saturday.
+
+**Today's Progress**: Power analysis.
+
+**Thoughts** 
+- Studied the power analysis in more detail.
+
+**Link(s) to work**
+[Code on Github](https://github.com/makarevichy/Week_10_100DaysOfCode/blob/master/weekday/Day_70.R)
+
 ### Day 68-69: July 26-27, Thursday-Friday.
 
 **Today's Progress**: ANOVA/MANOVA.
