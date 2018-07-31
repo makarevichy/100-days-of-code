@@ -9,7 +9,7 @@
 
 **Link(s) to work**
 [Work with NA value](https://github.com/makarevichy/Week_11_100DaysOfCode/blob/master/weekday/Day_72.R)
-[Work with chapters of book](https://github.com/makarevichy/Week_11_100DaysOfCode/blob/master/weekday/Day_72_73.R)
+[Work with chapters of book](https://github.com/makarevichy/Week_11_100DaysOfCode/blob/master/weekday/Days_72_73.R)
 
 ### Day 71: July 29, Sunday.
 
