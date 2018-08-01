@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 74: August 1, Wednesday.
+
+**Today's Progress**: Functional, function factors and function operators.
+
+**Thoughts** 
+- Today I have learned a lot to better understand functionals. I also worked with function factors and function operators.
+
+**Link(s) to work**
+[Code on Github](https://github.com/makarevichy/Week_11_100DaysOfCode/blob/master/weekday/Day_74.R)
+
 ### Days 72-73: July 30-31, Monday-Tuesday.
 
 **Today's Progress**: Mice package, environments and conditions.
