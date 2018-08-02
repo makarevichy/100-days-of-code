@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 75: August 2, Thursday.
+
+**Today's Progress**: Base vs OO objects, S3.
+
+**Thoughts** 
+- Today I tried to understand the difference between base objects vs OO objects in R. I also understood the S3 system.
+
+**Link(s) to work**
+[Code on Github](https://github.com/makarevichy/Week_11_100DaysOfCode/blob/master/weekday/Day_75.R)
+
 ### Day 74: August 1, Wednesday.
 
 **Today's Progress**: Functional, function factors and function operators.
