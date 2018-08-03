@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 76: August 3, Friday.
+
+**Today's Progress**: Expressions, quasiquotation and evaluation.
+
+**Thoughts** 
+- Today I was doing metaprogramming in R. I tried to get into quotation and unquotation. Also in worked out the evaluation of expressions. These are very cool themes in R!.
+
+**Link(s) to work**
+[Code on Github](https://github.com/makarevichy/Week_11_100DaysOfCode/blob/master/weekday/Day_76.R)
+
 ### Day 75: August 2, Thursday.
 
 **Today's Progress**: Base vs OO objects, S3.
