@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 77: August 4, Saturday.
+
+**Today's Progress**: GLM.
+
+**Thoughts** 
+- I decided to take a break from programming and do math :) Once again repeated generalized linear modeling.
+
+**Link(s) to work**
+[Code on Github](https://github.com/makarevichy/Week_11_100DaysOfCode/blob/master/weekday/Day_77.R)
+
 ### Day 76: August 3, Friday.
 
 **Today's Progress**: Expressions, quasiquotation and evaluation.
