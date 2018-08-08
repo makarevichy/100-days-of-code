@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 81: August 8, Wednesday.
+
+**Today's Progress**: R and API.
+
+**Thoughts** 
+- Today I continue to study the interaction of R via the API. I also delved into the results of the rendering.
+
+**Link(s) to work**
+[Code on Github](https://github.com/makarevichy/Week_12_100DaysOfCode/tree/master/plumber)
+
 ### Day 78-80: August 5-7, 3 days.
 
 **Today's Progress**: R and API.
