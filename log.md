@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 82: August 9, Thursday.
+
+**Today's Progress**: R and API.
+
+**Thoughts** 
+- I continue to study the API. I went through security, hosting and programmatic usage using R6.
+
+**Link(s) to work**
+[Code on Github](https://github.com/makarevichy/Week_12_100DaysOfCode/tree/master/plumber)
+
 ### Day 81: August 8, Wednesday.
 
 **Today's Progress**: R and API.
