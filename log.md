@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+### Days 89-90: August 16-17.
+
+**Today's Progress**: Rselenium, Docker, rvest.
+
+**Thoughts** 
+- I study webscraping. I got acquainted with a wonderful rselenium package. I also studied the rvest package and did some work with Dockers containers.
+
 ### Days 86-88: August 13-15.
 
 **Today's Progress**: Keras package, tensorflow.
