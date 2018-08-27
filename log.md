@@ -1,5 +1,9 @@
 # 100 Days Of Code - Log
 
+### Day 100: August 27
+
+Congratulate me!!!🥳🍾🎉 I finished the challenge. These 100 days were amazing and opened me a lot of new knowledge and good experience! Also, 2 weeks ago I started a new job as a data analyst! That's cool! :))
+
 ### Days 95-99: August 22-26.
 
 **Today's Progress**: Deep learning with R.
